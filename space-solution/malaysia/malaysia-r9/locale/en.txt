@@ -1,0 +1,57 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tets_panasonic
+
+## Skin
+
+### Button
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2.label = Bathroom
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2_mobile.label = Bathroom
+Button_F4B410EF_7C09_D482_4127_08820CBACE74.label = Study Room
+Button_F4B410EF_7C09_D482_4127_08820CBACE74_mobile.label = Study Room
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8.label = Laundry
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8_mobile.label = Laundry
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD.label = Master Bedroom
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD_mobile.label = Master Bedroom
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A.label = Kitchen
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A_mobile.label = Kitchen
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949.label = Living room
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Living room
+
+## Media
+
+### Title
+album_C5F31A0C_7409_F785_41D1_BA9B67E5FBCB.label = Photo Album 1
+album_C5F31A0C_7409_F785_41D1_BA9B67E5FBCB_0.label = 1
+album_C5F31A0C_7409_F785_41D1_BA9B67E5FBCB_1.label = 2
+album_C5F31A0C_7409_F785_41D1_BA9B67E5FBCB_2.label = 3
+album_C725EB4A_740B_F58D_41CD_2A299FCF0A94.label = Photo Album 1
+album_C725EB4A_740B_F58D_41CD_2A299FCF0A94_0.label = 1
+album_C725EB4A_740B_F58D_41CD_2A299FCF0A94_1.label = 2
+album_C725EB4A_740B_F58D_41CD_2A299FCF0A94_2.label = 3
+album_C725EB4A_740B_F58D_41CD_2A299FCF0A94_3.label = 4
+panorama_9919BEEC_8C34_41BF_41DF_B2B907F000C5.label = Lobby
+panorama_9BDFBE32_8C34_40AB_41E1_786837844A7A.label = Introduction
+panorama_A91B501C_9414_47F9_41DD_3F2D9AB34988.label = Laundry
+panorama_D01DC950_940C_B848_41DC_36E16B856114.label = Kitchen
+panorama_D090A80F_940C_47D8_41A4_E06F7EE1DED5.label = Bathroom
+panorama_D090B930_940C_79C9_41C1_E1FEE263823C.label = LivingRoom
+panorama_D097641B_940C_4FFF_41CD_E9938957746B.label = Masterbedroom
+panorama_D0B1F8CE_940D_F859_41D3_BB946CC59F07.label = StudyRoom_1
+panorama_D2CB4CF9_940B_B838_41D8_526B95BBFF2F.label = Foyer
+photo_3AD360CD_1A41_4723_4191_74F4D7CAE85E.label = TV_1
+photo_3CDEB69C_1A43_4B20_419F_522239EE8585.label = TV_2
+video_161165A3_5C7F_4804_41B9_122C817B4DDE.label = WhatsApp Video 2021-03-19 at 10.02.46
+video_6AF748F3_7850_D489_41D2_D6A404E0EFC3.label = Talent-lobby
+video_6BA9D796_7851_DC8B_41BE_20254033DF98.label = talent-intro
+
+## Action
+
+### URL
+LinkBehaviour_B44D688C_92B2_0FD8_41DB_272E40D1AE1C.source = https://www.panasonic.com/my/support/customercarecenter.html
+LinkBehaviour_BFDFEC7D_93D2_0738_41D4_CC6B95F00E79.source = https://www.panasonic.com/my/support/customercarecenter.html
