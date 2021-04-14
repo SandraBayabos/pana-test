@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/malaysia/static/css/main.598f9e7f.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.87204444.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.87204444.chunk.js.map",
+    "main.js": "/space-solution/malaysia/static/js/main.06ed24bf.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.06ed24bf.chunk.js.map",
     "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.3e77ed9c.js",
     "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.3e77ed9c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.143474d1.chunk.js": "/space-solution/malaysia/static/js/2.143474d1.chunk.js",
-    "static/js/2.143474d1.chunk.js.map": "/space-solution/malaysia/static/js/2.143474d1.chunk.js.map",
+    "static/js/2.88528d21.chunk.js": "/space-solution/malaysia/static/js/2.88528d21.chunk.js",
+    "static/js/2.88528d21.chunk.js.map": "/space-solution/malaysia/static/js/2.88528d21.chunk.js.map",
     "static/js/3.31a144b0.chunk.js": "/space-solution/malaysia/static/js/3.31a144b0.chunk.js",
     "static/js/3.31a144b0.chunk.js.map": "/space-solution/malaysia/static/js/3.31a144b0.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.598f9e7f.chunk.css.map": "/space-solution/malaysia/static/css/main.598f9e7f.chunk.css.map",
-    "static/js/2.143474d1.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.143474d1.chunk.js.LICENSE.txt",
+    "static/js/2.88528d21.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.88528d21.chunk.js.LICENSE.txt",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.8a251650.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.36d40a94.jpg",
     "static/media/02_gallery_NB-H3801_image.jpg": "/space-solution/malaysia/static/media/02_gallery_NB-H3801_image.e499e1d6.jpg",
@@ -152,8 +152,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e77ed9c.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.143474d1.chunk.js",
+    "static/js/2.88528d21.chunk.js",
     "static/css/main.598f9e7f.chunk.css",
-    "static/js/main.87204444.chunk.js"
+    "static/js/main.06ed24bf.chunk.js"
   ]
 }
