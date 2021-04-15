@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/malaysia/static/css/main.71049f57.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.be299e7f.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.be299e7f.chunk.js.map",
+    "main.css": "/space-solution/malaysia/static/css/main.0a355fb6.chunk.css",
+    "main.js": "/space-solution/malaysia/static/js/main.f43fddc1.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.f43fddc1.chunk.js.map",
     "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.61fb5884.js",
     "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.61fb5884.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3756c173.chunk.js": "/space-solution/malaysia/static/js/2.3756c173.chunk.js",
-    "static/js/2.3756c173.chunk.js.map": "/space-solution/malaysia/static/js/2.3756c173.chunk.js.map",
+    "static/js/2.52f786bd.chunk.js": "/space-solution/malaysia/static/js/2.52f786bd.chunk.js",
+    "static/js/2.52f786bd.chunk.js.map": "/space-solution/malaysia/static/js/2.52f786bd.chunk.js.map",
     "static/js/3.68b720ce.chunk.js": "/space-solution/malaysia/static/js/3.68b720ce.chunk.js",
     "static/js/3.68b720ce.chunk.js.map": "/space-solution/malaysia/static/js/3.68b720ce.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.71049f57.chunk.css.map": "/space-solution/malaysia/static/css/main.71049f57.chunk.css.map",
-    "static/js/2.3756c173.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.3756c173.chunk.js.LICENSE.txt",
+    "static/css/main.0a355fb6.chunk.css.map": "/space-solution/malaysia/static/css/main.0a355fb6.chunk.css.map",
+    "static/js/2.52f786bd.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.52f786bd.chunk.js.LICENSE.txt",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.8a251650.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.36d40a94.jpg",
     "static/media/02_gallery_NB-H3801_image.jpg": "/space-solution/malaysia/static/media/02_gallery_NB-H3801_image.e499e1d6.jpg",
@@ -152,8 +152,8 @@
   "entrypoints": [
     "static/js/runtime-main.61fb5884.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3756c173.chunk.js",
-    "static/css/main.71049f57.chunk.css",
-    "static/js/main.be299e7f.chunk.js"
+    "static/js/2.52f786bd.chunk.js",
+    "static/css/main.0a355fb6.chunk.css",
+    "static/js/main.f43fddc1.chunk.js"
   ]
 }
