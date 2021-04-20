@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/space-solution/malaysia/static/css/main.413ec7aa.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.09943e14.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.09943e14.chunk.js.map",
+    "main.css": "/space-solution/malaysia/static/css/main.8e933e41.chunk.css",
+    "main.js": "/space-solution/malaysia/static/js/main.d85b1231.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.d85b1231.chunk.js.map",
     "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.5187333a.js",
     "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.5187333a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.93b291ab.chunk.js.map": "/space-solution/malaysia/static/js/3.93b291ab.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.413ec7aa.chunk.css.map": "/space-solution/malaysia/static/css/main.413ec7aa.chunk.css.map",
+    "static/css/main.8e933e41.chunk.css.map": "/space-solution/malaysia/static/css/main.8e933e41.chunk.css.map",
     "static/js/2.96aa5fcf.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.96aa5fcf.chunk.js.LICENSE.txt",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
@@ -222,7 +222,7 @@
     "static/js/runtime-main.5187333a.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.96aa5fcf.chunk.js",
-    "static/css/main.413ec7aa.chunk.css",
-    "static/js/main.09943e14.chunk.js"
+    "static/css/main.8e933e41.chunk.css",
+    "static/js/main.d85b1231.chunk.js"
   ]
 }
