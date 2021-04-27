@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/static/css/main.2a9e7847.chunk.css",
-    "main.js": "/space-solution/static/js/main.a191b8e4.chunk.js",
-    "main.js.map": "/space-solution/static/js/main.a191b8e4.chunk.js.map",
+    "main.css": "/space-solution/static/css/main.8b6f1ede.chunk.css",
+    "main.js": "/space-solution/static/js/main.af1811cb.chunk.js",
+    "main.js.map": "/space-solution/static/js/main.af1811cb.chunk.js.map",
     "runtime-main.js": "/space-solution/static/js/runtime-main.bac42a62.js",
     "runtime-main.js.map": "/space-solution/static/js/runtime-main.bac42a62.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e6524ec1.chunk.js": "/space-solution/static/js/2.e6524ec1.chunk.js",
-    "static/js/2.e6524ec1.chunk.js.map": "/space-solution/static/js/2.e6524ec1.chunk.js.map",
+    "static/js/2.3242d7fe.chunk.js": "/space-solution/static/js/2.3242d7fe.chunk.js",
+    "static/js/2.3242d7fe.chunk.js.map": "/space-solution/static/js/2.3242d7fe.chunk.js.map",
     "static/js/3.c2c413b8.chunk.js": "/space-solution/static/js/3.c2c413b8.chunk.js",
     "static/js/3.c2c413b8.chunk.js.map": "/space-solution/static/js/3.c2c413b8.chunk.js.map",
     "index.html": "/space-solution/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.2a9e7847.chunk.css.map": "/space-solution/static/css/main.2a9e7847.chunk.css.map",
-    "static/js/2.e6524ec1.chunk.js.LICENSE.txt": "/space-solution/static/js/2.e6524ec1.chunk.js.LICENSE.txt",
+    "static/css/main.8b6f1ede.chunk.css.map": "/space-solution/static/css/main.8b6f1ede.chunk.css.map",
+    "static/js/2.3242d7fe.chunk.js.LICENSE.txt": "/space-solution/static/js/2.3242d7fe.chunk.js.LICENSE.txt",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
     "static/media/02_ER-GK20-K_Skinguard.jpg": "/space-solution/static/media/02_ER-GK20-K_Skinguard.abfc52e4.jpg",
@@ -146,8 +146,8 @@
   "entrypoints": [
     "static/js/runtime-main.bac42a62.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e6524ec1.chunk.js",
-    "static/css/main.2a9e7847.chunk.css",
-    "static/js/main.a191b8e4.chunk.js"
+    "static/js/2.3242d7fe.chunk.js",
+    "static/css/main.8b6f1ede.chunk.css",
+    "static/js/main.af1811cb.chunk.js"
   ]
 }
