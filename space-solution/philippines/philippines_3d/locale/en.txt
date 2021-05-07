@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Panasonic Space Solution
+tour.name = Panasonic Space Solution Virtual Showroom
 
 ## Skin
 
@@ -26,13 +26,13 @@ Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Living room
 ## Media
 
 ### Title
-panorama_010BC7BC_0CB2_7584_41A9_66F5941C15FC.label = Foyer
-panorama_015D0D23_0CB6_7ABC_419B_FF90DD960AD8.label = StudyRoom_1
-panorama_02EA355E_0CB2_EA84_4180_DD3B607E9032.label = LivingRoom
-panorama_02FB5D6D_0CB2_7A84_4191_ECDCA297BF1D.label = Kitchen
-panorama_1EE48F87_12AA_629E_4195_84AE39692D31.label = Lobby
+panorama_1C9B44FC_1386_8805_41B0_EF2F4CF50620.label = LivingRoom
+panorama_1D1AEC84_1337_E36B_4193_B0B43D9552C6.label = StudyRoom_1
+panorama_1E193BFA_129A_7B85_4180_E5FCE2D345C7.label = Lobby
+panorama_1FE237E6_1336_2CB7_417A_F0A85551D6F5.label = Foyer
+panorama_1FFE830A_1386_880D_4194_2C0AD501E414.label = Kitchen
+panorama_4D28BFE9_4194_F05E_41C8_9FC1D16C3794.label = Laundry
 panorama_F1166044_EFA3_7F2E_41EA_9A234BEFF877.label = Introduction
-panorama_F1E90AAB_EF63_C37A_41BB_C54AAFC41769.label = Laundry
 panorama_F6BA4346_FB89_78A2_41EA_9D71FB2CC002.label = Masterbedroom
 panorama_F9DF2351_D185_7746_41D6_9A045A8D49F7.label = Bathroom
 photo_3AD360CD_1A41_4723_4191_74F4D7CAE85E.label = TV_1
