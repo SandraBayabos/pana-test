@@ -1,0 +1,47 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Panasonic Space Solution Virtual Showroom
+
+## Skin
+
+### Button
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2.label = Bathroom
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2_mobile.label = Bathroom
+Button_F4B410EF_7C09_D482_4127_08820CBACE74.label = Study Room
+Button_F4B410EF_7C09_D482_4127_08820CBACE74_mobile.label = Study Room
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8.label = Laundry
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8_mobile.label = Laundry
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD.label = Master Bedroom
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD_mobile.label = Master Bedroom
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A.label = Kitchen
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A_mobile.label = Kitchen
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949.label = Living room
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Living room
+
+## Media
+
+### Title
+panorama_242922C8_37D3_4B94_41BE_2A38F775E3E5.label = StudyRoom_1
+panorama_273C2A5B_37B5_DAB4_41BD_D1BA8411AC3E.label = LivingRoom
+panorama_276F9BDF_37B4_D9AC_41BD_61D691D47C2A.label = Foyer
+panorama_27CC40F8_37B5_4774_41BC_B8BCE2997864.label = Kitchen
+panorama_39249A47_37DE_AD07_41B1_4738F5CA370B.label = Masterbedroom
+panorama_3993F7FE_37DA_A309_41B5_2389ADB1197D.label = Bathroom
+panorama_39F3D44A_37D9_E50E_41C7_F8245693553B.label = Laundry
+panorama_4E25CA6D_5C8D_92D8_41D2_58B867D81B6F.label = Lobby
+panorama_4F44BBD5_5CBB_91C8_41A3_905653488D73.label = Introduction
+photo_3AD360CD_1A41_4723_4191_74F4D7CAE85E.label = TV_1
+photo_3CDEB69C_1A43_4B20_419F_522239EE8585.label = TV_2
+video_F52ABCB9_D19F_71C6_41D7_02BC657CC108.label = lobby
+video_FC276611_D18A_F0C6_417E_AE48A4C7966A.label = Intro
+video_FF23F016_DF8A_EEA4_41D3_8327F63DE275.label = WhatsApp Video 2021-03-19 at 10.02.46
+
+## Action
+
+### URL
+LinkBehaviour_B44D688C_92B2_0FD8_41DB_272E40D1AE1C.source = https://www.panasonic.com/my/support/customercarecenter.html
