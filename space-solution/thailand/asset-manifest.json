@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/thailand/static/css/main.6498c208.chunk.css",
-    "main.js": "/space-solution/thailand/static/js/main.20fc48c6.chunk.js",
-    "main.js.map": "/space-solution/thailand/static/js/main.20fc48c6.chunk.js.map",
-    "runtime-main.js": "/space-solution/thailand/static/js/runtime-main.8278f50c.js",
-    "runtime-main.js.map": "/space-solution/thailand/static/js/runtime-main.8278f50c.js.map",
+    "main.css": "/space-solution/thailand/static/css/main.883851b7.chunk.css",
+    "main.js": "/space-solution/thailand/static/js/main.97796d84.chunk.js",
+    "main.js.map": "/space-solution/thailand/static/js/main.97796d84.chunk.js.map",
+    "runtime-main.js": "/space-solution/thailand/static/js/runtime-main.4098dce4.js",
+    "runtime-main.js.map": "/space-solution/thailand/static/js/runtime-main.4098dce4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/thailand/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3952dfe9.chunk.js": "/space-solution/thailand/static/js/2.3952dfe9.chunk.js",
-    "static/js/2.3952dfe9.chunk.js.map": "/space-solution/thailand/static/js/2.3952dfe9.chunk.js.map",
-    "static/js/3.49aba74c.chunk.js": "/space-solution/thailand/static/js/3.49aba74c.chunk.js",
-    "static/js/3.49aba74c.chunk.js.map": "/space-solution/thailand/static/js/3.49aba74c.chunk.js.map",
+    "static/js/2.f5278dbd.chunk.js": "/space-solution/thailand/static/js/2.f5278dbd.chunk.js",
+    "static/js/2.f5278dbd.chunk.js.map": "/space-solution/thailand/static/js/2.f5278dbd.chunk.js.map",
+    "static/js/3.b2d03618.chunk.js": "/space-solution/thailand/static/js/3.b2d03618.chunk.js",
+    "static/js/3.b2d03618.chunk.js.map": "/space-solution/thailand/static/js/3.b2d03618.chunk.js.map",
     "index.html": "/space-solution/thailand/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/thailand/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6498c208.chunk.css.map": "/space-solution/thailand/static/css/main.6498c208.chunk.css.map",
-    "static/js/2.3952dfe9.chunk.js.LICENSE.txt": "/space-solution/thailand/static/js/2.3952dfe9.chunk.js.LICENSE.txt",
+    "static/css/main.883851b7.chunk.css.map": "/space-solution/thailand/static/css/main.883851b7.chunk.css.map",
+    "static/js/2.f5278dbd.chunk.js.LICENSE.txt": "/space-solution/thailand/static/js/2.f5278dbd.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/thailand/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.jpg": "/space-solution/thailand/static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.fd802143.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/thailand/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
@@ -60,6 +60,7 @@
     "static/media/Gallery_EH-HE10_1.jpg": "/space-solution/thailand/static/media/Gallery_EH-HE10_1.baf4a255.jpg",
     "static/media/Gallery_EH-HE10_2.jpg": "/space-solution/thailand/static/media/Gallery_EH-HE10_2.ab010830.jpg",
     "static/media/Gallery_EH-HE10_5.jpg": "/space-solution/thailand/static/media/Gallery_EH-HE10_5.1f1e09d3.jpg",
+    "static/media/KNX Leaflet cs6 low_compressed (2).pdf": "/space-solution/thailand/static/media/KNX Leaflet cs6 low_compressed (2).50613c27.pdf",
     "static/media/KNX-101-TouchPanel-V2.jpg": "/space-solution/thailand/static/media/KNX-101-TouchPanel-V2.fef91364.jpg",
     "static/media/KX-TG3721BXB 1.jpg": "/space-solution/thailand/static/media/KX-TG3721BXB 1.0b862b05.jpg",
     "static/media/KX-TG3721BXB 2.jpg": "/space-solution/thailand/static/media/KX-TG3721BXB 2.404a6765.jpg",
@@ -75,6 +76,7 @@
     "static/media/NR-BX471WGK 1.jpg": "/space-solution/thailand/static/media/NR-BX471WGK 1.7513810c.jpg",
     "static/media/NR-BX471WGK 2.jpg": "/space-solution/thailand/static/media/NR-BX471WGK 2.13e3e98f.jpg",
     "static/media/NR-BX471WGK 3.jpg": "/space-solution/thailand/static/media/NR-BX471WGK 3.77fcbc3f.jpg",
+    "static/media/Panasonic-IQ-Katalog.pdf": "/space-solution/thailand/static/media/Panasonic-IQ-Katalog.292b550d.pdf",
     "static/media/S-18PU2T5-0.jpg": "/space-solution/thailand/static/media/S-18PU2T5-0.2d5848bf.jpg",
     "static/media/S-18PU2T5-1.jpg": "/space-solution/thailand/static/media/S-18PU2T5-1.c92dc885.jpg",
     "static/media/S-18PU2T5-2.jpg": "/space-solution/thailand/static/media/S-18PU2T5-2.ec5f971f.jpg",
@@ -134,10 +136,10 @@
     "static/media/ultima_cerceve_metalik_chrome.jpg": "/space-solution/thailand/static/media/ultima_cerceve_metalik_chrome.989327c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8278f50c.js",
+    "static/js/runtime-main.4098dce4.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3952dfe9.chunk.js",
-    "static/css/main.6498c208.chunk.css",
-    "static/js/main.20fc48c6.chunk.js"
+    "static/js/2.f5278dbd.chunk.js",
+    "static/css/main.883851b7.chunk.css",
+    "static/js/main.97796d84.chunk.js"
   ]
 }
