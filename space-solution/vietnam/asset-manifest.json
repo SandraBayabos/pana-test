@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/space-solution/vietnam/static/css/main.0be8ed77.chunk.css",
-    "main.js": "/space-solution/vietnam/static/js/main.feba91c3.chunk.js",
-    "main.js.map": "/space-solution/vietnam/static/js/main.feba91c3.chunk.js.map",
+    "main.js": "/space-solution/vietnam/static/js/main.edb40132.chunk.js",
+    "main.js.map": "/space-solution/vietnam/static/js/main.edb40132.chunk.js.map",
     "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.86717f47.js",
     "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.86717f47.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css",
@@ -131,6 +131,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.83b75a09.chunk.js",
     "static/css/main.0be8ed77.chunk.css",
-    "static/js/main.feba91c3.chunk.js"
+    "static/js/main.edb40132.chunk.js"
   ]
 }
