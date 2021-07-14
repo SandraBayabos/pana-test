@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/space-solution/thailand/static/css/main.38631019.chunk.css",
-    "main.js": "/space-solution/thailand/static/js/main.861a54c6.chunk.js",
-    "main.js.map": "/space-solution/thailand/static/js/main.861a54c6.chunk.js.map",
+    "main.js": "/space-solution/thailand/static/js/main.bd1335fc.chunk.js",
+    "main.js.map": "/space-solution/thailand/static/js/main.bd1335fc.chunk.js.map",
     "runtime-main.js": "/space-solution/thailand/static/js/runtime-main.44c8abc7.js",
     "runtime-main.js.map": "/space-solution/thailand/static/js/runtime-main.44c8abc7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/thailand/static/css/2.4c97ca4f.chunk.css",
@@ -128,6 +128,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.43df7093.chunk.js",
     "static/css/main.38631019.chunk.css",
-    "static/js/main.861a54c6.chunk.js"
+    "static/js/main.bd1335fc.chunk.js"
   ]
 }
