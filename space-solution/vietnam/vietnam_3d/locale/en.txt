@@ -10,31 +10,31 @@ tour.name = Panasonic Space Solution Virtual Showroom
 ## Skin
 
 ### Button
-Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2.label = Bathroom
-Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2_mobile.label = Bathroom
-Button_F4B410EF_7C09_D482_4127_08820CBACE74.label = Study Room
-Button_F4B410EF_7C09_D482_4127_08820CBACE74_mobile.label = Study Room
-Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8.label = Laundry
-Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8_mobile.label = Laundry
-Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD.label = Master Bedroom
-Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD_mobile.label = Master Bedroom
-Button_F4B4D0ED_7C09_D486_4150_14740FA4197A.label = Kitchen
-Button_F4B4D0ED_7C09_D486_4150_14740FA4197A_mobile.label = Kitchen
-Button_F4B570EB_7C09_D482_41A1_D3805D0CC949.label = Living room
-Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Living room
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2.label = Phòng tắm
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2_mobile.label = Phòng tắm
+Button_F4B410EF_7C09_D482_4127_08820CBACE74.label = Phòng học
+Button_F4B410EF_7C09_D482_4127_08820CBACE74_mobile.label = Phòng học
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8.label = Phòng giặt ủi
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8_mobile.label = Phòng giặt ủi
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD.label = Phòng ngủ chính
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD_mobile.label = Phòng ngủ chính
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A.label = Phòng bếp
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A_mobile.label = Phòng bếp
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949.label = Phòng khách
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Phòng khách
 
 ## Media
 
 ### Title
-panorama_9601785C_A14B_1BA3_41DA_3FCE567BEF9F.label = Lobby
+panorama_09F71090_0435_0C9C_4183_938CF972A699.label = Lobby
+panorama_1191F4E8_047C_F48C_4145_DCB50B91BF20.label = LivingRoom
+panorama_11E46DD7_047D_1484_4187_CE176C7FD312.label = Kitchen
+panorama_11E64B05_047D_1D84_417E_337E47AF29BC.label = Laundry
+panorama_15FE4D98_0455_148C_4172_61944526983D.label = Masterbedroom
+panorama_264F6A82_04F5_3F7C_417D_4FA4097DF8D8.label = Foyer
+panorama_27D7ED5A_04F5_758C_417D_026D3E70B39C.label = StudyRoom_1
 panorama_97DD3864_A14A_FC63_41DA_03DD952377B0.label = Introduction
 panorama_D07D724D_C397_1B09_41CD_B443003D8AF2.label = Bathroom
-panorama_D1A01DFF_C397_2909_41D1_B6CF639DE5A7.label = StudyRoom_1
-panorama_DDD162FB_C59F_1B09_41DC_9472726D6F0C.label = Foyer
-panorama_DE5F38D1_C273_1719_41E5_5835E43EC990.label = Kitchen
-panorama_DEA6EE4E_C273_2B0B_41D0_F89410B68D70.label = Masterbedroom
-panorama_DECCF7B5_C26F_F919_41B6_35E5FC1D457E.label = LivingRoom
-panorama_DFD5D98F_C26D_2909_41D3_BD640EB93509.label = Laundry
 photo_3AD360CD_1A41_4723_4191_74F4D7CAE85E.label = TV_1
 photo_3CDEB69C_1A43_4B20_419F_522239EE8585.label = TV_2
 video_78DB72B5_5C95_7248_41CC_F4EE3661DDFC.label = TH_Talent_Intro
