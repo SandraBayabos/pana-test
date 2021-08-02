@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/vietnam/static/css/main.6a9c546e.chunk.css",
-    "main.js": "/space-solution/vietnam/static/js/main.c38371bc.chunk.js",
-    "main.js.map": "/space-solution/vietnam/static/js/main.c38371bc.chunk.js.map",
-    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.ea8853e3.js",
-    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.ea8853e3.js.map",
+    "main.js": "/space-solution/vietnam/static/js/main.7d4b1c6b.chunk.js",
+    "main.js.map": "/space-solution/vietnam/static/js/main.7d4b1c6b.chunk.js.map",
+    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.36cf01e6.js",
+    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.36cf01e6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.dbe0f6d4.chunk.js": "/space-solution/vietnam/static/js/2.dbe0f6d4.chunk.js",
-    "static/js/2.dbe0f6d4.chunk.js.map": "/space-solution/vietnam/static/js/2.dbe0f6d4.chunk.js.map",
-    "static/js/3.c7909e94.chunk.js": "/space-solution/vietnam/static/js/3.c7909e94.chunk.js",
-    "static/js/3.c7909e94.chunk.js.map": "/space-solution/vietnam/static/js/3.c7909e94.chunk.js.map",
+    "static/js/2.29dd2795.chunk.js": "/space-solution/vietnam/static/js/2.29dd2795.chunk.js",
+    "static/js/2.29dd2795.chunk.js.map": "/space-solution/vietnam/static/js/2.29dd2795.chunk.js.map",
+    "static/js/3.b0a45fd7.chunk.js": "/space-solution/vietnam/static/js/3.b0a45fd7.chunk.js",
+    "static/js/3.b0a45fd7.chunk.js.map": "/space-solution/vietnam/static/js/3.b0a45fd7.chunk.js.map",
     "index.html": "/space-solution/vietnam/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.6a9c546e.chunk.css.map": "/space-solution/vietnam/static/css/main.6a9c546e.chunk.css.map",
-    "static/js/2.dbe0f6d4.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.dbe0f6d4.chunk.js.LICENSE.txt",
+    "static/js/2.29dd2795.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.29dd2795.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/vietnam/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/vietnam/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/vietnam/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
@@ -77,6 +77,7 @@
     "static/media/Gallery_EH-HE10_1.jpg": "/space-solution/vietnam/static/media/Gallery_EH-HE10_1.baf4a255.jpg",
     "static/media/Gallery_EH-HE10_2.jpg": "/space-solution/vietnam/static/media/Gallery_EH-HE10_2.ab010830.jpg",
     "static/media/Gallery_EH-HE10_5.jpg": "/space-solution/vietnam/static/media/Gallery_EH-HE10_5.1f1e09d3.jpg",
+    "static/media/KNX Leaflet cs6 low_compressed (2).pdf": "/space-solution/vietnam/static/media/KNX Leaflet cs6 low_compressed (2).50613c27.pdf",
     "static/media/KNX-101-TouchPanel-V2.jpg": "/space-solution/vietnam/static/media/KNX-101-TouchPanel-V2.fef91364.jpg",
     "static/media/KX-TG6811GB_HSF_gallery_global_04.jpg": "/space-solution/vietnam/static/media/KX-TG6811GB_HSF_gallery_global_04.e8602706.jpg",
     "static/media/KX-TG6812GB_D_gallery_global_01.jpg": "/space-solution/vietnam/static/media/KX-TG6812GB_D_gallery_global_01.cfc9e429.jpg",
@@ -151,10 +152,10 @@
     "static/media/ultima_cerceve_metalik_chrome.jpg": "/space-solution/vietnam/static/media/ultima_cerceve_metalik_chrome.989327c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea8853e3.js",
+    "static/js/runtime-main.36cf01e6.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.dbe0f6d4.chunk.js",
+    "static/js/2.29dd2795.chunk.js",
     "static/css/main.6a9c546e.chunk.css",
-    "static/js/main.c38371bc.chunk.js"
+    "static/js/main.7d4b1c6b.chunk.js"
   ]
 }
