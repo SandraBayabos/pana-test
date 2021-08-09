@@ -26,11 +26,11 @@ Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Phòng khách
 ## Media
 
 ### Title
+panorama_054C2DD6_0C57_1484_4169_D25649372686.label = Masterbedroom
 panorama_09F71090_0435_0C9C_4183_938CF972A699.label = Lobby
 panorama_1191F4E8_047C_F48C_4145_DCB50B91BF20.label = LivingRoom
 panorama_11E46DD7_047D_1484_4187_CE176C7FD312.label = Kitchen
 panorama_11E64B05_047D_1D84_417E_337E47AF29BC.label = Laundry
-panorama_15FE4D98_0455_148C_4172_61944526983D.label = Masterbedroom
 panorama_264F6A82_04F5_3F7C_417D_4FA4097DF8D8.label = Foyer
 panorama_27D7ED5A_04F5_758C_417D_026D3E70B39C.label = StudyRoom_1
 panorama_97DD3864_A14A_FC63_41DA_03DD952377B0.label = Introduction
