@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/space-solution/newzealand/static/css/main.23981cb8.chunk.css",
-    "main.js": "/space-solution/newzealand/static/js/main.3c23daf1.chunk.js",
-    "main.js.map": "/space-solution/newzealand/static/js/main.3c23daf1.chunk.js.map",
+    "main.js": "/space-solution/newzealand/static/js/main.c02b97d9.chunk.js",
+    "main.js.map": "/space-solution/newzealand/static/js/main.c02b97d9.chunk.js.map",
     "runtime-main.js": "/space-solution/newzealand/static/js/runtime-main.c42f7dab.js",
     "runtime-main.js.map": "/space-solution/newzealand/static/js/runtime-main.c42f7dab.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/newzealand/static/css/2.4c97ca4f.chunk.css",
@@ -108,6 +108,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.bf27d6e3.chunk.js",
     "static/css/main.23981cb8.chunk.css",
-    "static/js/main.3c23daf1.chunk.js"
+    "static/js/main.c02b97d9.chunk.js"
   ]
 }
