@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/space-solution/singapore/static/css/main.85df3057.chunk.css",
-    "main.js": "/space-solution/singapore/static/js/main.5605c111.chunk.js",
-    "main.js.map": "/space-solution/singapore/static/js/main.5605c111.chunk.js.map",
+    "main.js": "/space-solution/singapore/static/js/main.bf7a7ad0.chunk.js",
+    "main.js.map": "/space-solution/singapore/static/js/main.bf7a7ad0.chunk.js.map",
     "runtime-main.js": "/space-solution/singapore/static/js/runtime-main.0a2fe1b6.js",
     "runtime-main.js.map": "/space-solution/singapore/static/js/runtime-main.0a2fe1b6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/singapore/static/css/2.4c97ca4f.chunk.css",
@@ -138,6 +138,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.8680d135.chunk.js",
     "static/css/main.85df3057.chunk.css",
-    "static/js/main.5605c111.chunk.js"
+    "static/js/main.bf7a7ad0.chunk.js"
   ]
 }
