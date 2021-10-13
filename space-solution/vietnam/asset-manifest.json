@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/vietnam/static/css/main.6a9c546e.chunk.css",
-    "main.js": "/space-solution/vietnam/static/js/main.d1fef8d1.chunk.js",
-    "main.js.map": "/space-solution/vietnam/static/js/main.d1fef8d1.chunk.js.map",
-    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.3e102008.js",
-    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.3e102008.js.map",
+    "main.js": "/space-solution/vietnam/static/js/main.73e23866.chunk.js",
+    "main.js.map": "/space-solution/vietnam/static/js/main.73e23866.chunk.js.map",
+    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.1c65a2f7.js",
+    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.1c65a2f7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7b9f6f5d.chunk.js": "/space-solution/vietnam/static/js/2.7b9f6f5d.chunk.js",
-    "static/js/2.7b9f6f5d.chunk.js.map": "/space-solution/vietnam/static/js/2.7b9f6f5d.chunk.js.map",
-    "static/js/3.68db92fa.chunk.js": "/space-solution/vietnam/static/js/3.68db92fa.chunk.js",
-    "static/js/3.68db92fa.chunk.js.map": "/space-solution/vietnam/static/js/3.68db92fa.chunk.js.map",
+    "static/js/2.10bf3418.chunk.js": "/space-solution/vietnam/static/js/2.10bf3418.chunk.js",
+    "static/js/2.10bf3418.chunk.js.map": "/space-solution/vietnam/static/js/2.10bf3418.chunk.js.map",
+    "static/js/3.72f38d5b.chunk.js": "/space-solution/vietnam/static/js/3.72f38d5b.chunk.js",
+    "static/js/3.72f38d5b.chunk.js.map": "/space-solution/vietnam/static/js/3.72f38d5b.chunk.js.map",
     "index.html": "/space-solution/vietnam/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.6a9c546e.chunk.css.map": "/space-solution/vietnam/static/css/main.6a9c546e.chunk.css.map",
-    "static/js/2.7b9f6f5d.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.7b9f6f5d.chunk.js.LICENSE.txt",
+    "static/js/2.10bf3418.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.10bf3418.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/vietnam/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01.jpg": "/space-solution/vietnam/static/media/01.e0a5c367.jpg",
     "static/media/01_WL30.jpg": "/space-solution/vietnam/static/media/01_WL30.a4a0feb3.jpg",
@@ -111,6 +111,11 @@
     "static/media/SD-P104-Product_ImageGlobal-3.jpg": "/space-solution/vietnam/static/media/SD-P104-Product_ImageGlobal-3.40471e6b.jpg",
     "static/media/Touch Panel.pdf": "/space-solution/vietnam/static/media/Touch Panel.292cbb86.pdf",
     "static/media/Ultima Switch.pdf": "/space-solution/vietnam/static/media/Ultima Switch.0698d314.pdf",
+    "static/media/VL-MC3000BX-1.jpg": "/space-solution/vietnam/static/media/VL-MC3000BX-1.91e3ab2b.jpg",
+    "static/media/VL-MC3000BX-2.jpg": "/space-solution/vietnam/static/media/VL-MC3000BX-2.ea495225.jpg",
+    "static/media/VL-MC3000BX-3.jpg": "/space-solution/vietnam/static/media/VL-MC3000BX-3.769a5c9f.jpg",
+    "static/media/VL-MC3000BX-4.jpg": "/space-solution/vietnam/static/media/VL-MC3000BX-4.edc1bdc7.jpg",
+    "static/media/VL-MC3000BX-5.jpg": "/space-solution/vietnam/static/media/VL-MC3000BX-5.c91504ce.jpg",
     "static/media/WM-FL_2020_seemore01_NA-S106FX1_NZ_201014_WH_front-nz.jpg": "/space-solution/vietnam/static/media/WM-FL_2020_seemore01_NA-S106FX1_NZ_201014_WH_front-nz.924d1f4d.jpg",
     "static/media/WM-FL_2020_seemore01_NA-S106FX1_VN_201012-vn.jpg": "/space-solution/vietnam/static/media/WM-FL_2020_seemore01_NA-S106FX1_VN_201012-vn.e9d0a1e7.jpg",
     "static/media/WM-FL_2020_seemore03_NA-S106FX1_VN_201012-vn.jpg": "/space-solution/vietnam/static/media/WM-FL_2020_seemore03_NA-S106FX1_VN_201012-vn.e46421ec.jpg",
@@ -161,10 +166,10 @@
     "static/media/ultima_cerceve_metalik_chrome.jpg": "/space-solution/vietnam/static/media/ultima_cerceve_metalik_chrome.989327c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e102008.js",
+    "static/js/runtime-main.1c65a2f7.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.7b9f6f5d.chunk.js",
+    "static/js/2.10bf3418.chunk.js",
     "static/css/main.6a9c546e.chunk.css",
-    "static/js/main.d1fef8d1.chunk.js"
+    "static/js/main.73e23866.chunk.js"
   ]
 }
