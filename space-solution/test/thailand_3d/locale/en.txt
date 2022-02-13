@@ -1,0 +1,80 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Panasonic Space Solution Virtual Showroom
+
+## Skin
+
+### Button
+Button_10B46252_359C_C130_418B_55042D06A086.label = Cafe Kitchen
+Button_12990C8F_359D_C110_41B4_28F455EC00F7.label = Workstation
+Button_13C0069E_3594_4130_41CA_439C3052E108.label = Meeting Room
+Button_13C0769E_3594_4130_41C0_8AE7E807060E.label = Common Area
+Button_13C3069E_3594_4130_41B0_AD4677216CCB.label = Pantry
+Button_13C3269E_3594_4130_41B9_3A45F0ACAA13.label = Reception
+Button_13C3669E_3594_4130_41A1_CFCB5972524D.label = Toilet
+Button_13C6E68E_3594_4111_4189_F10AA4181B10.label = Cafe Counter
+Button_15701358_35AC_4731_41C2_89C81ACDCB8F.label = Outdoor Area
+Button_2D0CF00A_38B6_509F_41BE_D4FB5004235F_mobile.label = Workstation
+Button_2D6CB492_38B7_D18E_41B6_3CDA2D3DCE0D_mobile.label = Pantry
+Button_2E99F723_38B7_D08E_41B9_953AB8D42040_mobile.label = Reception
+Button_2EB83C06_38BA_D096_41C0_F2D09CC9291B_mobile.label = MeetingRoom
+Button_2EB86C07_38BA_D096_41C2_E9D20C8F8156_mobile.label = Toilet
+Button_2EBDFC02_38BA_D08E_41C9_8427C10A855F_mobile.label = Cafe Counter
+Button_2EBF7C03_38BA_D08E_41B7_2D0857171523_mobile.label = Cafe Kitchen
+Button_2EBF8C04_38BA_D08A_4197_77378D0B1F6D_mobile.label = Outdoor Area
+Button_2EBFCC05_38BA_D08A_41B9_14BDA89795D2_mobile.label = Common Area
+Button_50EDBC6D_450E_7799_41BB_B92C2E9B5B24.label = Living Room
+Button_5E99AEB4_4502_908F_41C5_14F204AE0AFA_mobile.label = Living room
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2.label = Bathroom
+Button_F4B3B0F2_7C09_D482_41D0_D19990763DF2_mobile.label = Bathroom
+Button_F4B410EF_7C09_D482_4127_08820CBACE74.label = Study 
+Button_F4B410EF_7C09_D482_4127_08820CBACE74_mobile.label = Study
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8.label = Laundry
+Button_F4B430EE_7C09_D482_4192_0D49C0DEE4B8_mobile.label = Laundry
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD.label = Master Bedroom
+Button_F4B450F1_7C09_D49E_41D3_C6219A35AECD_mobile.label = Master Bedroom
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A.label = Kitchen
+Button_F4B4D0ED_7C09_D486_4150_14740FA4197A_mobile.label = Kitchen
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949.label = Foyer
+Button_F4B570EB_7C09_D482_41A1_D3805D0CC949_mobile.label = Foyer
+
+## Media
+
+### Title
+panorama_25E02268_3395_D88E_41B4_C0A426BF426F.label = Cowork_Module02_TH_Toilet
+panorama_25E05202_3394_587D_41A0_55358340BA1C.label = Cowork_Module02_TH_Common Area
+panorama_25E055A1_3395_BBBE_41B7_C3EC76BC2C3D.label = Cowork_Module02_TH_Pantry
+panorama_25E06BD0_3394_6F9D_41B6_916894FFCFE2.label = Cowork_Module02_TH_Cafe Kitchen
+panorama_25E07858_3395_A88E_41C8_845131BDA80D.label = Cowork_Module02_TH_MeetingRoom
+panorama_25E18C34_3395_A885_41C8_8ECF4D7D85E6.label = Cowork_Module02_TH_Reception
+panorama_25E1BEA0_3395_A9BD_41B1_C2AF39FA9DE8.label = Cowork_Module02_TH_Outdoor
+panorama_26F009AF_3B96_7394_41B8_46E924F23256.label = Cowork_Module02_TH_Cafe Counter
+panorama_4F44BBD5_5CBB_91C8_41A3_905653488D73.label = Introduction
+panorama_5426CC86_5A6F_0069_41D1_8E8A4F460D9C.label = Laundry
+panorama_54347F9C_5A6F_3F99_41BF_CA8E7326F356.label = LivingRoom
+panorama_54C991AC_5A6D_03B9_41D2_1F2AA765056A.label = StudyRoom_1
+panorama_54E155EE_5A6D_03B9_41CC_EC88D69500F2.label = Foyer
+panorama_557AEFB2_5A6F_3FA9_41D1_A64628CEB01C.label = Bathroom
+panorama_571E12EE_5A6D_01B9_41C3_4A7459EE196A.label = Kitchen
+panorama_596172D4_4306_B08F_41B3_11C7BBDAE3B2.label = Lobby
+panorama_73887D9F_627B_6053_41CF_0C5E68BC2065.label = Masterbedroom
+panorama_82B41194_9604_96F3_41C3_A2AB5073C22E.label = Cowork_Module02_TH_Workstation
+panorama_875C1186_9671_52B1_41CC_347C72297ABF.label = Cowork_Module02_TH_Reception2
+photo_3AD360CD_1A41_4723_4191_74F4D7CAE85E.label = TV_1
+photo_3CDEB69C_1A43_4B20_419F_522239EE8585.label = TV_2
+video_78DB72B5_5C95_7248_41CC_F4EE3661DDFC.label = TH_Talent_Intro
+video_7AECA6F2_5C95_73C8_41D1_EC4FCFC120C7.label = TH_Talent_Lobby
+video_F52ABCB9_D19F_71C6_41D7_02BC657CC108.label = lobby
+video_FC276611_D18A_F0C6_417E_AE48A4C7966A.label = Intro
+video_FF23F016_DF8A_EEA4_41D3_8327F63DE275.label = WhatsApp Video 2021-03-19 at 10.02.46
+
+## Action
+
+### URL
+LinkBehaviour_2E3E055B_35EC_4337_41C0_A9CA16814D07.source = https://www.panasonic.com/my/support/customercarecenter.html
+LinkBehaviour_B44D688C_92B2_0FD8_41DB_272E40D1AE1C.source = https://www.panasonic.com/my/support/customercarecenter.html
