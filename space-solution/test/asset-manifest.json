@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/test/static/css/main.45933456.chunk.css",
-    "main.js": "/space-solution/test/static/js/main.35eb717e.chunk.js",
-    "main.js.map": "/space-solution/test/static/js/main.35eb717e.chunk.js.map",
-    "runtime-main.js": "/space-solution/test/static/js/runtime-main.1faac79e.js",
-    "runtime-main.js.map": "/space-solution/test/static/js/runtime-main.1faac79e.js.map",
+    "main.css": "/space-solution/test/static/css/main.676494cd.chunk.css",
+    "main.js": "/space-solution/test/static/js/main.3b0b0612.chunk.js",
+    "main.js.map": "/space-solution/test/static/js/main.3b0b0612.chunk.js.map",
+    "runtime-main.js": "/space-solution/test/static/js/runtime-main.c5c6628e.js",
+    "runtime-main.js.map": "/space-solution/test/static/js/runtime-main.c5c6628e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/test/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4a7715c6.chunk.js": "/space-solution/test/static/js/2.4a7715c6.chunk.js",
-    "static/js/2.4a7715c6.chunk.js.map": "/space-solution/test/static/js/2.4a7715c6.chunk.js.map",
-    "static/js/3.4e0e29de.chunk.js": "/space-solution/test/static/js/3.4e0e29de.chunk.js",
-    "static/js/3.4e0e29de.chunk.js.map": "/space-solution/test/static/js/3.4e0e29de.chunk.js.map",
+    "static/js/2.16d65d9a.chunk.js": "/space-solution/test/static/js/2.16d65d9a.chunk.js",
+    "static/js/2.16d65d9a.chunk.js.map": "/space-solution/test/static/js/2.16d65d9a.chunk.js.map",
+    "static/js/3.fee2bb3b.chunk.js": "/space-solution/test/static/js/3.fee2bb3b.chunk.js",
+    "static/js/3.fee2bb3b.chunk.js.map": "/space-solution/test/static/js/3.fee2bb3b.chunk.js.map",
     "index.html": "/space-solution/test/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/test/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.45933456.chunk.css.map": "/space-solution/test/static/css/main.45933456.chunk.css.map",
-    "static/js/2.4a7715c6.chunk.js.LICENSE.txt": "/space-solution/test/static/js/2.4a7715c6.chunk.js.LICENSE.txt",
+    "static/css/main.676494cd.chunk.css.map": "/space-solution/test/static/css/main.676494cd.chunk.css.map",
+    "static/js/2.16d65d9a.chunk.js.LICENSE.txt": "/space-solution/test/static/js/2.16d65d9a.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/test/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.jpg": "/space-solution/test/static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.fd802143.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/test/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
@@ -173,10 +173,10 @@
     "static/media/ultima_cerceve_metalik_chrome.jpg": "/space-solution/test/static/media/ultima_cerceve_metalik_chrome.989327c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1faac79e.js",
+    "static/js/runtime-main.c5c6628e.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4a7715c6.chunk.js",
-    "static/css/main.45933456.chunk.css",
-    "static/js/main.35eb717e.chunk.js"
+    "static/js/2.16d65d9a.chunk.js",
+    "static/css/main.676494cd.chunk.css",
+    "static/js/main.3b0b0612.chunk.js"
   ]
 }
