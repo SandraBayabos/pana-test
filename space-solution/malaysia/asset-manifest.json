@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/malaysia/static/css/main.b6d30ee7.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.e94bb1ed.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.e94bb1ed.chunk.js.map",
-    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.08b6d2f5.js",
-    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.08b6d2f5.js.map",
+    "main.css": "/space-solution/malaysia/static/css/main.6671bd0e.chunk.css",
+    "main.js": "/space-solution/malaysia/static/js/main.dd1834af.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.dd1834af.chunk.js.map",
+    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.85bac4cd.js",
+    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.85bac4cd.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6d998efe.chunk.js": "/space-solution/malaysia/static/js/2.6d998efe.chunk.js",
-    "static/js/2.6d998efe.chunk.js.map": "/space-solution/malaysia/static/js/2.6d998efe.chunk.js.map",
-    "static/js/3.bda70b74.chunk.js": "/space-solution/malaysia/static/js/3.bda70b74.chunk.js",
-    "static/js/3.bda70b74.chunk.js.map": "/space-solution/malaysia/static/js/3.bda70b74.chunk.js.map",
+    "static/js/2.c9395fce.chunk.js": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js",
+    "static/js/2.c9395fce.chunk.js.map": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js.map",
+    "static/js/3.11b2bdcf.chunk.js": "/space-solution/malaysia/static/js/3.11b2bdcf.chunk.js",
+    "static/js/3.11b2bdcf.chunk.js.map": "/space-solution/malaysia/static/js/3.11b2bdcf.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.b6d30ee7.chunk.css.map": "/space-solution/malaysia/static/css/main.b6d30ee7.chunk.css.map",
-    "static/js/2.6d998efe.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.6d998efe.chunk.js.LICENSE.txt",
+    "static/css/main.6671bd0e.chunk.css.map": "/space-solution/malaysia/static/css/main.6671bd0e.chunk.css.map",
+    "static/js/2.c9395fce.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/malaysia/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
@@ -51,6 +51,9 @@
     "static/media/Air-e nanoeX Generator FV-15CSD1-2.jpg": "/space-solution/malaysia/static/media/Air-e nanoeX Generator FV-15CSD1-2.897eb159.jpg",
     "static/media/Air-e nanoeX Generator FV-15CSD1-3.jpg": "/space-solution/malaysia/static/media/Air-e nanoeX Generator FV-15CSD1-3.c37aee1b.jpg",
     "static/media/Analog Smoke Detector.pdf": "/space-solution/malaysia/static/media/Analog Smoke Detector.fe5d6000.pdf",
+    "static/media/CS-XPU10WKH-1-0.jpg": "/space-solution/malaysia/static/media/CS-XPU10WKH-1-0.df88d6d3.jpg",
+    "static/media/CS-XPU10WKH-1-1.jpg": "/space-solution/malaysia/static/media/CS-XPU10WKH-1-1.8b4c81f7.jpg",
+    "static/media/CS-XPU10WKH-1-2.jpg": "/space-solution/malaysia/static/media/CS-XPU10WKH-1-2.9715caeb.jpg",
     "static/media/CS-XPU9WKH-8_1.jpg": "/space-solution/malaysia/static/media/CS-XPU9WKH-8_1.683d2079.jpg",
     "static/media/CS-XPU9WKH-8_2.jpg": "/space-solution/malaysia/static/media/CS-XPU9WKH-8_2.26412a8c.jpg",
     "static/media/CS-XPU9WKH-8_3.jpg": "/space-solution/malaysia/static/media/CS-XPU9WKH-8_3.e4d28f4f.jpg",
@@ -197,10 +200,10 @@
     "static/media/tv-2020-65hz1000-galleryimages-6-200730.jpg": "/space-solution/malaysia/static/media/tv-2020-65hz1000-galleryimages-6-200730.d499354b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08b6d2f5.js",
+    "static/js/runtime-main.85bac4cd.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6d998efe.chunk.js",
-    "static/css/main.b6d30ee7.chunk.css",
-    "static/js/main.e94bb1ed.chunk.js"
+    "static/js/2.c9395fce.chunk.js",
+    "static/css/main.6671bd0e.chunk.css",
+    "static/js/main.dd1834af.chunk.js"
   ]
 }
