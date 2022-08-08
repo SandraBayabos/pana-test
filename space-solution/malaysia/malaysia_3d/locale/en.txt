@@ -3,18 +3,18 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_6C4EEAAD_7D3C_FD74_41DB_2822E49622C0.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C938179_7D3D_4FDC_41DA_A7E5F5293A2C.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C9BAE59_7D3D_55DC_41D1_DA78106D81BD.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_13FC8CA6_0070_49D0_4109_C6A284AD9840.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C4CF2EA_7D3D_B2FC_41AB_78C42CDD8D68.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C501584_7D3C_B734_41DA_5036F93996CB.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6CF1955F_7D3C_F7D4_41A5_439DE62FE33C.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C31AF74_7D43_53D4_41C1_6854499BB6CD.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C3709DB_7D43_DEDC_41DD_5BB020536249.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6CC36D14_7D43_7754_41D1_E954D5DF1190.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C301A61_7D44_DDEC_41CA_AE2BF07536FA.url = http://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C3266EA_7D45_52FC_41D0_73B58707F3DD.url = http://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C4EEAAD_7D3C_FD74_41DB_2822E49622C0.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C938179_7D3D_4FDC_41DA_A7E5F5293A2C.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C9BAE59_7D3D_55DC_41D1_DA78106D81BD.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_13FC8CA6_0070_49D0_4109_C6A284AD9840.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C4CF2EA_7D3D_B2FC_41AB_78C42CDD8D68.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C501584_7D3C_B734_41DA_5036F93996CB.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6CF1955F_7D3C_F7D4_41A5_439DE62FE33C.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C31AF74_7D43_53D4_41C1_6854499BB6CD.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C3709DB_7D43_DEDC_41DD_5BB020536249.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6CC36D14_7D43_7754_41D1_E954D5DF1190.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C301A61_7D44_DDEC_41CA_AE2BF07536FA.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_6C3266EA_7D45_52FC_41D0_73B58707F3DD.url = https://webdemo.primewrapp.com/
 LinkBehaviour_B44D688C_92B2_0FD8_41DB_272E40D1AE1C.source = https://www.panasonic.com/my/support/customercarecenter.html
 
 ## Media
