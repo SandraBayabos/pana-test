@@ -3,19 +3,19 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_641D21F4_7D48_C671_41BB_1CD292896EBB.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_65F6B0A7_7D48_469F_41C4_1B1E756E365D.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6405E063_7D48_4597_41CC_5C8F5229F96D.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_64080AF9_7D48_DA73_41B7_8AF0FF04E909.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_64031D75_7D48_5E73_41C9_69B33F50817B.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_64041B33_7D4F_FBF7_41DA_53761B28F157.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_640937E9_7D48_4A93_41DE_5CDF775FBF36.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_682E4282_7CC8_CA91_41C0_2D2B2AA86268.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_640A2DAE_7D48_3E91_41B8_4B185D30422C.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_640BC0F1_7D48_4673_41C1_9598E8D63C69.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_641808DC_7D49_C6B1_41C7_DA07BDC6B67B.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_640168E3_7D48_4697_41C2_2323525F316C.url = https://webdemo.primewrapp.com/
-PopupWebFrameBehaviour_6C0A04F0_7CD8_4E71_41DD_A7BAC374F180.url = https://webdemo.primewrapp.com/
+PopupWebFrameBehaviour_641D21F4_7D48_C671_41BB_1CD292896EBB.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_65F6B0A7_7D48_469F_41C4_1B1E756E365D.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_6405E063_7D48_4597_41CC_5C8F5229F96D.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_64080AF9_7D48_DA73_41B7_8AF0FF04E909.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_64031D75_7D48_5E73_41C9_69B33F50817B.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_64041B33_7D4F_FBF7_41DA_53761B28F157.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_640937E9_7D48_4A93_41DE_5CDF775FBF36.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_682E4282_7CC8_CA91_41C0_2D2B2AA86268.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_640A2DAE_7D48_3E91_41B8_4B185D30422C.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_640BC0F1_7D48_4673_41C1_9598E8D63C69.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_641808DC_7D49_C6B1_41C7_DA07BDC6B67B.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_640168E3_7D48_4697_41C2_2323525F316C.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
+PopupWebFrameBehaviour_6C0A04F0_7CD8_4E71_41DD_A7BAC374F180.url = https://panatest.netlify.app/space-solution/philippines/interactive_content/index.html
 LinkBehaviour_B44D688C_92B2_0FD8_41DB_272E40D1AE1C.source = https://www.panasonic.com/my/support/customercarecenter.html
 
 ## Media
