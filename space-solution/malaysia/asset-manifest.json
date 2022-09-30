@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/space-solution/malaysia/static/css/main.aa9bc8bb.chunk.css",
-    "main.js": "/space-solution/malaysia/static/js/main.da2414e1.chunk.js",
-    "main.js.map": "/space-solution/malaysia/static/js/main.da2414e1.chunk.js.map",
-    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.85bac4cd.js",
-    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.85bac4cd.js.map",
+    "main.css": "/space-solution/malaysia/static/css/main.d83636da.chunk.css",
+    "main.js": "/space-solution/malaysia/static/js/main.81874151.chunk.js",
+    "main.js.map": "/space-solution/malaysia/static/js/main.81874151.chunk.js.map",
+    "runtime-main.js": "/space-solution/malaysia/static/js/runtime-main.132e1a81.js",
+    "runtime-main.js.map": "/space-solution/malaysia/static/js/runtime-main.132e1a81.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c9395fce.chunk.js": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js",
-    "static/js/2.c9395fce.chunk.js.map": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js.map",
-    "static/js/3.11b2bdcf.chunk.js": "/space-solution/malaysia/static/js/3.11b2bdcf.chunk.js",
-    "static/js/3.11b2bdcf.chunk.js.map": "/space-solution/malaysia/static/js/3.11b2bdcf.chunk.js.map",
+    "static/js/2.52b23d0d.chunk.js": "/space-solution/malaysia/static/js/2.52b23d0d.chunk.js",
+    "static/js/2.52b23d0d.chunk.js.map": "/space-solution/malaysia/static/js/2.52b23d0d.chunk.js.map",
+    "static/js/3.2f0a8f87.chunk.js": "/space-solution/malaysia/static/js/3.2f0a8f87.chunk.js",
+    "static/js/3.2f0a8f87.chunk.js.map": "/space-solution/malaysia/static/js/3.2f0a8f87.chunk.js.map",
     "index.html": "/space-solution/malaysia/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/malaysia/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.aa9bc8bb.chunk.css.map": "/space-solution/malaysia/static/css/main.aa9bc8bb.chunk.css.map",
-    "static/js/2.c9395fce.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.c9395fce.chunk.js.LICENSE.txt",
+    "static/css/main.d83636da.chunk.css.map": "/space-solution/malaysia/static/css/main.d83636da.chunk.css.map",
+    "static/js/2.52b23d0d.chunk.js.LICENSE.txt": "/space-solution/malaysia/static/js/2.52b23d0d.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/malaysia/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/malaysia/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/malaysia/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
@@ -110,6 +110,9 @@
     "static/media/MC-CL575K 2.jpg": "/space-solution/malaysia/static/media/MC-CL575K 2.0e0d940f.jpg",
     "static/media/MC-CL575K 3.jpg": "/space-solution/malaysia/static/media/MC-CL575K 3.722bda2c.jpg",
     "static/media/MC-YL631R.jpg": "/space-solution/malaysia/static/media/MC-YL631R.81684a78.jpg",
+    "static/media/MX-MG5351WRA_A.jpg": "/space-solution/malaysia/static/media/MX-MG5351WRA_A.deae44eb.jpg",
+    "static/media/MX-MG5351WRA_B.jpg": "/space-solution/malaysia/static/media/MX-MG5351WRA_B.2f3848a2.jpg",
+    "static/media/MX-MG5351WRA_C.jpg": "/space-solution/malaysia/static/media/MX-MG5351WRA_C.9f8f1852.jpg",
     "static/media/Modular Thermostat.pdf": "/space-solution/malaysia/static/media/Modular Thermostat.c913d71b.pdf",
     "static/media/NB-H3801-SeeAll-accessories.jpg": "/space-solution/malaysia/static/media/NB-H3801-SeeAll-accessories.378092d3.jpg",
     "static/media/NC-SK1-Product_ImageGlobal-1_sg_en.jpg": "/space-solution/malaysia/static/media/NC-SK1-Product_ImageGlobal-1_sg_en.b904f4bb.jpg",
@@ -200,10 +203,10 @@
     "static/media/tv-2020-65hz1000-galleryimages-6-200730.jpg": "/space-solution/malaysia/static/media/tv-2020-65hz1000-galleryimages-6-200730.d499354b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85bac4cd.js",
+    "static/js/runtime-main.132e1a81.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c9395fce.chunk.js",
-    "static/css/main.aa9bc8bb.chunk.css",
-    "static/js/main.da2414e1.chunk.js"
+    "static/js/2.52b23d0d.chunk.js",
+    "static/css/main.d83636da.chunk.css",
+    "static/js/main.81874151.chunk.js"
   ]
 }
