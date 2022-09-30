@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/space-solution/thailand/static/css/main.6671bd0e.chunk.css",
-    "main.js": "/space-solution/thailand/static/js/main.6c76e122.chunk.js",
-    "main.js.map": "/space-solution/thailand/static/js/main.6c76e122.chunk.js.map",
+    "main.css": "/space-solution/thailand/static/css/main.62d33215.chunk.css",
+    "main.js": "/space-solution/thailand/static/js/main.b14ff4bb.chunk.js",
+    "main.js.map": "/space-solution/thailand/static/js/main.b14ff4bb.chunk.js.map",
     "runtime-main.js": "/space-solution/thailand/static/js/runtime-main.067e1521.js",
     "runtime-main.js.map": "/space-solution/thailand/static/js/runtime-main.067e1521.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/thailand/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.47db8f7b.chunk.js.map": "/space-solution/thailand/static/js/3.47db8f7b.chunk.js.map",
     "index.html": "/space-solution/thailand/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/thailand/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6671bd0e.chunk.css.map": "/space-solution/thailand/static/css/main.6671bd0e.chunk.css.map",
+    "static/css/main.62d33215.chunk.css.map": "/space-solution/thailand/static/css/main.62d33215.chunk.css.map",
     "static/js/2.0edc94c0.chunk.js.LICENSE.txt": "/space-solution/thailand/static/js/2.0edc94c0.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/thailand/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.jpg": "/space-solution/thailand/static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.fd802143.jpg",
@@ -189,7 +189,7 @@
     "static/js/runtime-main.067e1521.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0edc94c0.chunk.js",
-    "static/css/main.6671bd0e.chunk.css",
-    "static/js/main.6c76e122.chunk.js"
+    "static/css/main.62d33215.chunk.css",
+    "static/js/main.b14ff4bb.chunk.js"
   ]
 }
