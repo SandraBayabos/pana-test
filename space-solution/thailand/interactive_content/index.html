@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Panasonic</title>
+        <link rel="stylesheet" type="text/css" href="style-index.css"/>
+    </head>
+    <body>
+      <div id="Background">
+        <img id="BackgroundImg" src="./image/bg.jpg"></img>
+      </div>
+      <div id="GameFrame">
+        <iframe style="width: 100%; height: 100%; border: 0px" src="./game.html"> </iframe>
+      </div>
+      <!-- <div id="CloseBtn">
+        <img src="./image/btn_close.png"></img>
+      </div> -->
+      <div id="NextBtn">
+        <img src="./image/btn_next.png"></img>
+      </div>
+      <div id="BackBtn">
+        <img src="./image/btn_back.png"></img>
+      </div>
+      <script>
+        let gf = document.getElementById('GameFrame');
+        // let closeBtn = document.getElementById('CloseBtn');
+        let nextBtn = document.getElementById('NextBtn');
+        let backBtn = document.getElementById('BackBtn');
+        onresize = function(evt) {
+          console.log(document.body.clientWidth);
+          let defaultW = 1540;
+          let defaultH = 690;
+          let w = defaultW;
+          let h = defaultH;
+          let s = 1;
+          if (document.body.clientWidth - 100 < defaultW) {
+            s = (document.body.clientWidth - 100) / w;
+            w = defaultW * s;
+            h = defaultH * s;
+          }
+          gf.style.width = `${w}px`;
+          gf.style.marginLeft = `${-w/2}px`;
+          gf.style.height = `${h}px`;
+          gf.style.marginTop = `${-h/2}px`;
+
+          // closeBtn.style.marginLeft = `${w/2-35}px`;
+          // closeBtn.style.marginTop = `${-h/2-35}px`;
+          
+          nextBtn.style.marginLeft = `${w/2-100}px`;
+          nextBtn.style.marginTop = `${h/2-100}px`;
+
+          backBtn.style.marginLeft = `${-w/2 + 10}px`;
+          backBtn.style.marginTop = `${h/2 - 90}px`;
+        }
+
+        onload = function() {
+          onresize()
+        }
+    </script>
+    </body>
+</html>
