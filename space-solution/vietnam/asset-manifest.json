@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/vietnam/static/css/main.5dca28de.chunk.css",
-    "main.js": "/space-solution/vietnam/static/js/main.36e356a1.chunk.js",
-    "main.js.map": "/space-solution/vietnam/static/js/main.36e356a1.chunk.js.map",
-    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.90e06c58.js",
-    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.90e06c58.js.map",
+    "main.js": "/space-solution/vietnam/static/js/main.2412bc33.chunk.js",
+    "main.js.map": "/space-solution/vietnam/static/js/main.2412bc33.chunk.js.map",
+    "runtime-main.js": "/space-solution/vietnam/static/js/runtime-main.522250ad.js",
+    "runtime-main.js.map": "/space-solution/vietnam/static/js/runtime-main.522250ad.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.318bdbfa.chunk.js": "/space-solution/vietnam/static/js/2.318bdbfa.chunk.js",
-    "static/js/2.318bdbfa.chunk.js.map": "/space-solution/vietnam/static/js/2.318bdbfa.chunk.js.map",
-    "static/js/3.8e4b2fd4.chunk.js": "/space-solution/vietnam/static/js/3.8e4b2fd4.chunk.js",
-    "static/js/3.8e4b2fd4.chunk.js.map": "/space-solution/vietnam/static/js/3.8e4b2fd4.chunk.js.map",
+    "static/js/2.9cfc846c.chunk.js": "/space-solution/vietnam/static/js/2.9cfc846c.chunk.js",
+    "static/js/2.9cfc846c.chunk.js.map": "/space-solution/vietnam/static/js/2.9cfc846c.chunk.js.map",
+    "static/js/3.3bce7070.chunk.js": "/space-solution/vietnam/static/js/3.3bce7070.chunk.js",
+    "static/js/3.3bce7070.chunk.js.map": "/space-solution/vietnam/static/js/3.3bce7070.chunk.js.map",
     "index.html": "/space-solution/vietnam/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/vietnam/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.5dca28de.chunk.css.map": "/space-solution/vietnam/static/css/main.5dca28de.chunk.css.map",
-    "static/js/2.318bdbfa.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.318bdbfa.chunk.js.LICENSE.txt",
+    "static/js/2.9cfc846c.chunk.js.LICENSE.txt": "/space-solution/vietnam/static/js/2.9cfc846c.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/vietnam/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01.jpg": "/space-solution/vietnam/static/media/01.e0a5c367.jpg",
     "static/media/01_WL30.jpg": "/space-solution/vietnam/static/media/01_WL30.a4a0feb3.jpg",
@@ -89,6 +89,7 @@
     "static/media/ES-WF61RP_SeeMore_01.jpg": "/space-solution/vietnam/static/media/ES-WF61RP_SeeMore_01.1ae965c5.jpg",
     "static/media/ES-WF61RP_SeeMore_08.jpg": "/space-solution/vietnam/static/media/ES-WF61RP_SeeMore_08.e67fc7f2.jpg",
     "static/media/ES-WF61W_standard02.jpg": "/space-solution/vietnam/static/media/ES-WF61W_standard02.bfb79053.jpg",
+    "static/media/EW1613-1.jpg": "/space-solution/vietnam/static/media/EW1613-1.02e37f37.jpg",
     "static/media/F-60TAN 1.jpg": "/space-solution/vietnam/static/media/F-60TAN 1.31ce4f6c.jpg",
     "static/media/F-60TAN 2.jpg": "/space-solution/vietnam/static/media/F-60TAN 2.44eeeb23.jpg",
     "static/media/F-60XDN.jpg": "/space-solution/vietnam/static/media/F-60XDN.63d5102c.jpg",
@@ -209,10 +210,10 @@
     "static/media/ultima_cerceve_metalik_chrome.jpg": "/space-solution/vietnam/static/media/ultima_cerceve_metalik_chrome.989327c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90e06c58.js",
+    "static/js/runtime-main.522250ad.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.318bdbfa.chunk.js",
+    "static/js/2.9cfc846c.chunk.js",
     "static/css/main.5dca28de.chunk.css",
-    "static/js/main.36e356a1.chunk.js"
+    "static/js/main.2412bc33.chunk.js"
   ]
 }

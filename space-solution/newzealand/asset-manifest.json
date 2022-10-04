@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/newzealand/static/css/main.9847cf52.chunk.css",
-    "main.js": "/space-solution/newzealand/static/js/main.8ed2ef05.chunk.js",
-    "main.js.map": "/space-solution/newzealand/static/js/main.8ed2ef05.chunk.js.map",
-    "runtime-main.js": "/space-solution/newzealand/static/js/runtime-main.78af1327.js",
-    "runtime-main.js.map": "/space-solution/newzealand/static/js/runtime-main.78af1327.js.map",
+    "main.js": "/space-solution/newzealand/static/js/main.c88455ef.chunk.js",
+    "main.js.map": "/space-solution/newzealand/static/js/main.c88455ef.chunk.js.map",
+    "runtime-main.js": "/space-solution/newzealand/static/js/runtime-main.3f0435d0.js",
+    "runtime-main.js.map": "/space-solution/newzealand/static/js/runtime-main.3f0435d0.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/newzealand/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.5731fdbe.chunk.js": "/space-solution/newzealand/static/js/2.5731fdbe.chunk.js",
-    "static/js/2.5731fdbe.chunk.js.map": "/space-solution/newzealand/static/js/2.5731fdbe.chunk.js.map",
-    "static/js/3.7fab611e.chunk.js": "/space-solution/newzealand/static/js/3.7fab611e.chunk.js",
-    "static/js/3.7fab611e.chunk.js.map": "/space-solution/newzealand/static/js/3.7fab611e.chunk.js.map",
+    "static/js/2.6ca8fdc8.chunk.js": "/space-solution/newzealand/static/js/2.6ca8fdc8.chunk.js",
+    "static/js/2.6ca8fdc8.chunk.js.map": "/space-solution/newzealand/static/js/2.6ca8fdc8.chunk.js.map",
+    "static/js/3.de840fba.chunk.js": "/space-solution/newzealand/static/js/3.de840fba.chunk.js",
+    "static/js/3.de840fba.chunk.js.map": "/space-solution/newzealand/static/js/3.de840fba.chunk.js.map",
     "index.html": "/space-solution/newzealand/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/newzealand/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.9847cf52.chunk.css.map": "/space-solution/newzealand/static/css/main.9847cf52.chunk.css.map",
-    "static/js/2.5731fdbe.chunk.js.LICENSE.txt": "/space-solution/newzealand/static/js/2.5731fdbe.chunk.js.LICENSE.txt",
+    "static/js/2.6ca8fdc8.chunk.js.LICENSE.txt": "/space-solution/newzealand/static/js/2.6ca8fdc8.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/space-solution/newzealand/static/media/0.961d1481.jpg",
     "static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.jpg": "/space-solution/newzealand/static/media/01_EGEBEFGNGTGAGJGHPU_UB150_K_front_l181107.fd802143.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/newzealand/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
@@ -50,6 +50,7 @@
     "static/media/ER-GK60-S421-3.jpg": "/space-solution/newzealand/static/media/ER-GK60-S421-3.a6bdce5d.jpg",
     "static/media/EW1211A.jpg": "/space-solution/newzealand/static/media/EW1211A.fd6fa92a.jpg",
     "static/media/EW1211Ab.jpg": "/space-solution/newzealand/static/media/EW1211Ab.8ebc6f83.jpg",
+    "static/media/EW1613-1.jpg": "/space-solution/newzealand/static/media/EW1613-1.02e37f37.jpg",
     "static/media/KNX Leaflet cs6 low_compressed (2).pdf": "/space-solution/newzealand/static/media/KNX Leaflet cs6 low_compressed (2).50613c27.pdf",
     "static/media/KX-TG6811GB_HSD_gallery_global_03.jpg": "/space-solution/newzealand/static/media/KX-TG6811GB_HSD_gallery_global_03.05d8a499.jpg",
     "static/media/KX-TG6811GB_HSF_gallery_global_04.jpg": "/space-solution/newzealand/static/media/KX-TG6811GB_HSF_gallery_global_04.5f302715.jpg",
@@ -134,10 +135,10 @@
     "static/media/tv-2020-65hz1000-galleryimages-6-200730.jpg": "/space-solution/newzealand/static/media/tv-2020-65hz1000-galleryimages-6-200730.d499354b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78af1327.js",
+    "static/js/runtime-main.3f0435d0.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.5731fdbe.chunk.js",
+    "static/js/2.6ca8fdc8.chunk.js",
     "static/css/main.9847cf52.chunk.css",
-    "static/js/main.8ed2ef05.chunk.js"
+    "static/js/main.c88455ef.chunk.js"
   ]
 }
