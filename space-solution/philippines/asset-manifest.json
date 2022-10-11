@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/space-solution/philippines/static/css/main.5dca28de.chunk.css",
-    "main.js": "/space-solution/philippines/static/js/main.be8c0ab7.chunk.js",
-    "main.js.map": "/space-solution/philippines/static/js/main.be8c0ab7.chunk.js.map",
-    "runtime-main.js": "/space-solution/philippines/static/js/runtime-main.afa5548d.js",
-    "runtime-main.js.map": "/space-solution/philippines/static/js/runtime-main.afa5548d.js.map",
+    "main.js": "/space-solution/philippines/static/js/main.916bec11.chunk.js",
+    "main.js.map": "/space-solution/philippines/static/js/main.916bec11.chunk.js.map",
+    "runtime-main.js": "/space-solution/philippines/static/js/runtime-main.f9dec0d4.js",
+    "runtime-main.js.map": "/space-solution/philippines/static/js/runtime-main.f9dec0d4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/space-solution/philippines/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.9558fc02.chunk.js": "/space-solution/philippines/static/js/2.9558fc02.chunk.js",
-    "static/js/2.9558fc02.chunk.js.map": "/space-solution/philippines/static/js/2.9558fc02.chunk.js.map",
-    "static/js/3.9b13bc20.chunk.js": "/space-solution/philippines/static/js/3.9b13bc20.chunk.js",
-    "static/js/3.9b13bc20.chunk.js.map": "/space-solution/philippines/static/js/3.9b13bc20.chunk.js.map",
+    "static/js/2.ed378e86.chunk.js": "/space-solution/philippines/static/js/2.ed378e86.chunk.js",
+    "static/js/2.ed378e86.chunk.js.map": "/space-solution/philippines/static/js/2.ed378e86.chunk.js.map",
+    "static/js/3.969a324d.chunk.js": "/space-solution/philippines/static/js/3.969a324d.chunk.js",
+    "static/js/3.969a324d.chunk.js.map": "/space-solution/philippines/static/js/3.969a324d.chunk.js.map",
     "index.html": "/space-solution/philippines/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/space-solution/philippines/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.5dca28de.chunk.css.map": "/space-solution/philippines/static/css/main.5dca28de.chunk.css.map",
-    "static/js/2.9558fc02.chunk.js.LICENSE.txt": "/space-solution/philippines/static/js/2.9558fc02.chunk.js.LICENSE.txt",
+    "static/js/2.ed378e86.chunk.js.LICENSE.txt": "/space-solution/philippines/static/js/2.ed378e86.chunk.js.LICENSE.txt",
     "static/media/0 XU9_12_Front_Closed.jpg": "/space-solution/philippines/static/media/0 XU9_12_Front_Closed.4c8c0c9a.jpg",
     "static/media/01_gallery_NB-H3801_rotisserie.jpg": "/space-solution/philippines/static/media/01_gallery_NB-H3801_rotisserie.a69808b5.jpg",
     "static/media/01_gallery_NT-H900_201015.jpg": "/space-solution/philippines/static/media/01_gallery_NT-H900_201015.ea34f1bd.jpg",
@@ -258,6 +258,9 @@
     "static/media/TH-58JX700S.jpg": "/space-solution/philippines/static/media/TH-58JX700S.c360948a.jpg",
     "static/media/TH-65BQP1.jpg": "/space-solution/philippines/static/media/TH-65BQP1.ae34c23e.jpg",
     "static/media/TH-65JX700S.jpg": "/space-solution/philippines/static/media/TH-65JX700S.105ca26e.jpg",
+    "static/media/TH-65JZ1000S 1.jpg": "/space-solution/philippines/static/media/TH-65JZ1000S 1.2aee068f.jpg",
+    "static/media/TH-65JZ1000S 2.jpg": "/space-solution/philippines/static/media/TH-65JZ1000S 2.46206d26.jpg",
+    "static/media/TH-65JZ1000S.jpg": "/space-solution/philippines/static/media/TH-65JZ1000S.c2c46d45.jpg",
     "static/media/TH-65SQP1.jpg": "/space-solution/philippines/static/media/TH-65SQP1.7c35fb56.jpg",
     "static/media/TH-75BQP1.jpg": "/space-solution/philippines/static/media/TH-75BQP1.df5dbd36.jpg",
     "static/media/TH-86BQP1.jpg": "/space-solution/philippines/static/media/TH-86BQP1.29afc9ec.jpg",
@@ -326,10 +329,10 @@
     "static/media/tv-2020-65hz1000-galleryimages-6-200730.jpg": "/space-solution/philippines/static/media/tv-2020-65hz1000-galleryimages-6-200730.d499354b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.afa5548d.js",
+    "static/js/runtime-main.f9dec0d4.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.9558fc02.chunk.js",
+    "static/js/2.ed378e86.chunk.js",
     "static/css/main.5dca28de.chunk.css",
-    "static/js/main.be8c0ab7.chunk.js"
+    "static/js/main.916bec11.chunk.js"
   ]
 }
